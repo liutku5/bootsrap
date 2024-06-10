@@ -2,7 +2,7 @@
     height: 500px;
 }
 .hight1{
-    height: 700px;
+    height: 650px;
 }
 .low{
     height: 250px;
@@ -17,7 +17,6 @@
     font-weight: 500;
     margin-top: -30px;
     padding-top: 15px;
-   
 }
 .width{
     width: 0px;
@@ -32,4 +31,15 @@
 }
 .space1{
     margin-top: 15px;
+}
+input[type=text]{
+    background-color: rgb(236, 234, 234);
+}
+.text{
+    color: rgb(155, 154, 154);
+}
+.buttonSize{
+    /* padding: 15px; */
+    padding-left: 40px;
+    padding-right: 40px;
 }
