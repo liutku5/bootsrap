@@ -1,6 +1,22 @@
 .hight{
     height: 500px;
 }
+.hight1{
+    height: 650px;
+}
 .low{
     height: 250px;
+}
+.lower{
+    height: 60px;
+    text-align: center;
+    
+    color: white;
+    font-weight: 500;
+}
+#container{
+    margin-top: 50px;
+}
+.space{
+    margin-top: 30px;
 }
