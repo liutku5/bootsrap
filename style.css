@@ -2,21 +2,34 @@
     height: 500px;
 }
 .hight1{
-    height: 650px;
+    height: 700px;
 }
 .low{
     height: 250px;
 }
+.low1{
+    height: 30px;
+}
 .lower{
     height: 60px;
     text-align: center;
-    
     color: white;
     font-weight: 500;
+    margin-top: -30px;
+    padding-top: 15px;
+   
+}
+.width{
+    width: 0px;
 }
 #container{
-    margin-top: 50px;
+    margin-top: 100px;
+    width: 1100px;
+    margin-left: 400px;
 }
 .space{
     margin-top: 30px;
+}
+.space1{
+    margin-top: 15px;
 }
